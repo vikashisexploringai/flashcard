@@ -8,7 +8,7 @@ const ThemeSelector = {
         const themes = ThemeLoader.getAllThemes();
         
         themeList.innerHTML = themes.map(theme => `
-            <div class="theme-card" onclick="ThemeSelector.selectTheme('${theme.name}')">
+            <div class="theme-card" onclick="ThemeSelector.selectTheme('${theme.id}')">
                 <h3>${theme.name}</h3>
                 <p>${theme.description}</p>
                 <div class="card-count">${theme.flashcards.length} cards</div>
@@ -16,8 +16,8 @@ const ThemeSelector = {
         `).join('');
     },
     
-    selectTheme: function(themeName) {
-        const theme = ThemeLoader.getThemeByName(themeName);
+    selectTheme: function(themeId) {
+        const theme = ThemeLoader.getThemeById(themeId);
         if (theme) {
             FlashcardViewer.startTheme(theme);
             this.showScreen('flashcardScreen');
