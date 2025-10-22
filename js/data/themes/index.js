@@ -1,8 +1,6 @@
 // List all theme files here
 const themeFiles = [
-    'vocabulary',
-    'tables',
-    'indianRulers'
+    'polity2025'
 ];
 
 // Load all theme files dynamically
