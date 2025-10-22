@@ -24,15 +24,25 @@ const FlashcardViewer = {
         this.updateNavigation();
     },
     
-    renderCard: function() {
-        const card = this.currentTheme.flashcards[this.currentCardIndex];
-        document.getElementById('questionText').textContent = card.question;
-        document.getElementById('paragraphText').textContent = card.paragraph;
-        document.getElementById('currentThemeName').textContent = this.currentTheme.name;
-        
-        // Reset card to front side
-        document.getElementById('flashcard').classList.remove('flipped');
-    },
+  renderCard: function() {
+    const card = this.currentTheme.flashcards[this.currentCardIndex];
+    document.getElementById('questionText').textContent = card.question;
+    
+    // Handle paragraph formatting with proper line breaks
+    const paragraphText = document.getElementById('paragraphText');
+    if (card.paragraph.includes('\n')) {
+        // Replace line breaks with HTML breaks and add some spacing
+        paragraphText.innerHTML = card.paragraph.replace(/\n/g, '<br><br>');
+    } else {
+        paragraphText.textContent = card.paragraph;
+    }
+    
+    document.getElementById('currentThemeName').textContent = this.currentTheme.name;
+    
+    // Reset card to front side and scroll to top
+    document.getElementById('flashcard').classList.remove('flipped');
+    paragraphText.scrollTop = 0; // Reset scroll position
+},
     
     flipCard: function() {
         document.getElementById('flashcard').classList.toggle('flipped');
