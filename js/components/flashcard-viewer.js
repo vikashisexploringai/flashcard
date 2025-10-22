@@ -21,6 +21,7 @@ const FlashcardViewer = {
         this.currentCardIndex = 0;
         this.renderCard();
         this.updateProgress();
+        this.updateNavigation();
     },
     
     renderCard: function() {
