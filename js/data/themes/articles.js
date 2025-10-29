@@ -26,4 +26,4 @@ An increase in the assets of legislators or their associates, disproportionate t
     ]
 };
 
-ThemeLoader.registerTheme(polity2025Theme);
+ThemeLoader.registerTheme(articlesTheme);
