@@ -4,24 +4,16 @@ const articlesTheme = {
     description: 'Important Articles of the Constitution',
     flashcards: [
         {
-            question: 'Discuss the \'corrupt practices\' for the purpose of the Representation of the People Act, 1951. Analyze whether the increase in the assets of the legislators and/or their associates, disproportionate to their known sources of income, would constitute \'undue influence\' and consequently a corrupt practice. 150 words',
-            paragraph: `The Representation of the People Act, 1951 seeks to ensure free and fair elections by prohibiting practices that distort the voter's free will. Corrupt practices are those acts that undermine the purity of the electoral process.
+    question: 'Article 72',
+    paragraph: `Article 72: Power of President to grant pardons, etc., and to suspend, remit or commute sentences in certain cases
 
-As per Section 123 of the Act, the following constitute corrupt practices:
+(1) The President shall have the power to grant pardons, reprieves, respites or remissions of punishment or to suspend, remit or commute the sentence of any person convicted of any offence—
+(a) in all cases where the punishment or sentence is by a Court Martial;
+(b) in all cases where the punishment or sentence is for an offence against any law relating to a matter to which the executive power of the Union extends;
+(c) in all cases where the sentence is a sentence of death.
 
-1. Bribery – Offering or accepting gratification to influence voting behaviour.
-
-2. Undue influence – Interfering with the free exercise of the voter's choice through threat or coercion.
-
-3. Appeal on religious, caste, communal, or linguistic grounds to secure votes.
-
-4. Publication of false statements regarding a candidate's personal character or conduct.
-
-5. Misuse of government machinery for electioneering purposes.
-
-6. Hiring or procuring vehicles for voters and exceeding prescribed election expenses.
-
-An increase in the assets of legislators or their associates, disproportionate to their known income, does not automatically amount to a corrupt practice, unless it is proven that the wealth was used to exercise undue influence or inducement over voters. Such enrichment, though unethical, is dealt with under the Prevention of Corruption Act, 1988, and not Section 123 of the RPA.`
+(2): Nothing in sub-clause (a) of clause (1) shall affect the power conferred by law on any officer of the Armed Forces to suspend, remit or commute a sentence passed by a Court Martial.
+(3): Nothing in sub-clause (c) of clause (1) shall affect the power to suspend, remit or commute a sentence of death exercisable by the Governor of a State under any law for the time being in force.`
         }
     ]
 };
