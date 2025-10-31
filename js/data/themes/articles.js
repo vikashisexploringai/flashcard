@@ -14,6 +14,12 @@ const articlesTheme = {
 
 (2): Nothing in sub-clause (a) of clause (1) shall affect the power conferred by law on any officer of the Armed Forces to suspend, remit or commute a sentence passed by a Court Martial.
 (3): Nothing in sub-clause (c) of clause (1) shall affect the power to suspend, remit or commute a sentence of death exercisable by the Governor of a State under any law for the time being in force.`
+        },
+        {
+    question: 'Article 50',
+    paragraph: `Article 50: Separation of judiciary from executive
+
+The State shall take steps to separate the judiciary from the executive in the public services of the State.`
         }
     ]
 };
