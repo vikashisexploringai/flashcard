@@ -48,24 +48,6 @@ In contrast, the U.S. President enjoys broader clemency powers under Article II,
 Preemptive pardons are those granted before formal charges or conviction, effectively protecting individuals from future prosecution, as famously seen in President Ford’s pardon of Nixon.`
 },
         {
-    question: 'Discuss the nature of Jammu and Kashmir Legislative Assembly after the Jammu and Kashmir Reorganization Act, 2019. Briefly describe the powers and functions of the Assembly of the Union Territory of Jammu and Kashmir.',
-    paragraph: `The Jammu and Kashmir Reorganisation Act, 2019 transformed the erstwhile state into two Union Territories — Jammu and Kashmir (with a Legislative Assembly) and Ladakh (without one). Consequently, the Legislative Assembly of Jammu and Kashmir functions more like that of Delhi or Puducherry, operating under Article 239A and Section 14 of the Act.
-
-Nature of the Assembly:
-
-It is a unicameral body, replacing the earlier bicameral legislature.
-
-The Lieutenant Governor (LG) is the constitutional head, while the Council of Ministers, led by a Chief Minister, aids and advises the LG except on reserved subjects such as public order, police, and land.
-
-The Assembly’s term is five years, unlike the six-year term of the former state assembly.
-
-Powers and functions:
-
-It can make laws on State List and Concurrent List subjects (except those reserved for Parliament).
-
-It exercises oversight on the executive, controls finances through budget approval, and represents local aspirations within the federal framework.`
-},
-        {
     question: '"The Attorney General of India plays a crucial role in guiding the legal framework of the Union Government and ensuring sound governance through legal counsel." Discuss his responsibilities, rights and limitations in this regard.',
     paragraph: `The Attorney General of India (AGI) is the chief legal advisor to the Union, appointed under Article 76 of the Constitution.
 
