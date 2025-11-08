@@ -65,6 +65,24 @@ Lacks security of tenure, limiting full independence from the executive.
 By professional ethics cannot appear against the Government of India or take briefs causing conflict of interest.
 
 Thus, the AGI supports constitutional governance while bound by executive control.`
+        },
+        {
+    question: "Women's social capital complements in advancing empowerment and gender equity. Explain.",
+    paragraph: `Women’s social capital refers to the networks, community bonds, collective solidarity, and mutual support systems that women cultivate through family, neighbourhoods, self-help groups, workplaces, and digital platforms. It acts as a powerful complement to constitutional and legal measures for empowerment.
+
+How women’s social capital advances empowerment and gender equity:
+
+Collective voice: Shared networks allow women to articulate concerns, negotiate rights, and resist gender-based discrimination.
+
+Economic empowerment: Through self-help groups and cooperatives, women gain access to credit, entrepreneurial opportunities, and market linkages, enhancing their autonomy.
+
+Access to information: Peer networks spread awareness of legal rights, government schemes, education and health services.
+
+Leadership development: Community participation builds confidence and encourages women to take roles in local governance, especially Panchayats.
+
+Social protection: Emotional and practical support systems reduce vulnerability to domestic violence, exclusion, and socio-economic shocks.
+
+Thus, women’s social capital reinforces institutional efforts by strengthening agency, participation, and dignity, making gender equity a community-driven and sustainable process rather than relying solely on state intervention.`
         }
     ]
 };
