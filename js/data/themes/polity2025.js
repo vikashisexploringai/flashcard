@@ -83,6 +83,30 @@ Leadership development: Community participation builds confidence and encourages
 Social protection: Emotional and practical support systems reduce vulnerability to domestic violence, exclusion, and socio-economic shocks.
 
 Thus, women’s social capital reinforces institutional efforts by strengthening agency, participation, and dignity, making gender equity a community-driven and sustainable process rather than relying solely on state intervention.`
+        },
+        {
+    question: "E-governance projects have a built-in bias towards technology and back-end integration rather than user-centric designs. Examine.",
+    paragraph: `E-governance in India often emphasizes digital infrastructure over citizen-friendly service delivery.
+
+Bias toward technology:
+
+Standardizing procedures rather than simplifying services: Many portals replicate old paperwork digitally (e.g., property registration still demands multiple digital uploads).
+
+Capturing data rather than safeguarding privacy: Aadhaar-based systems expand rapidly while data protection frameworks lag.
+
+Enforcing compliance rather than enabling convenience: GST systems push strict filing schedules, burdening small traders with low digital skills.
+
+Promoting digital channels over multi-channel access: Mandatory online pension authentication excludes people lacking stable internet/biometrics.
+
+Neglect of user-centric design:
+
+Ignoring digital literacy gaps: CSCs remain intermediaries instead of empowering direct citizen access.
+
+Overlooking accessibility and linguistic diversity: RTI and grievance portals often limit access through English-dominant interfaces.
+
+Excluding vulnerable groups: Beneficiaries like sanitation workers lack devices for online rehabilitation schemes.
+
+Conclusion: For inclusive governance, India must move from technology-driven rollout toward co-created, hybrid, and context-specific design that enhances accessibility, trust, and last-mile service delivery.`
         }
     ]
 };
