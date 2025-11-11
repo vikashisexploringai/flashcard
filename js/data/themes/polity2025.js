@@ -107,6 +107,14 @@ Overlooking accessibility and linguistic diversity: RTI and grievance portals of
 Excluding vulnerable groups: Beneficiaries like sanitation workers lack devices for online rehabilitation schemes.
 
 Conclusion: For inclusive governance, India must move from technology-driven rollout toward co-created, hybrid, and context-specific design that enhances accessibility, trust, and last-mile service delivery.`
+        },
+        {
+    question: "Civil Society Organisations are often perceived as being anti-State actors than non-State actors. Do you agree? Justify.",
+    paragraph: `Civil society organisations (CSOs) strengthen democracy by representing citizen interests, demanding accountability and safeguarding rights in a plural and diverse society. Yet, their frequent criticism of government actions, mobilisation of protests and exposure of corruption creates a strong perception of them as adversaries of the state rather than complementary actors in governance. Governments often equate dissent with disloyalty, especially in politically sensitive sectors like land acquisition, environment and human rights, further intensifying mistrust toward such organisations.
+
+Moreover, foreign funding of some CSOs raises specific concerns of external intervention in domestic policy priorities, leading to tighter scrutiny under regulations like FCRA and greater suspicion about their intentions. Such fears reinforce claims that they may challenge national interests while asserting public rights.
+
+However, CSOs fundamentally operate within constitutional frameworks and seek to improve governance outcomes. Their role as watchdogs is essential to a healthy democracy. The perception of them being anti-state persists due to their accountability-based engagement, not due to any inherent hostility toward the state.`
         }
     ]
 };
