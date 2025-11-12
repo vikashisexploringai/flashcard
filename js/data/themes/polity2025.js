@@ -115,6 +115,14 @@ Conclusion: For inclusive governance, India must move from technology-driven rol
 Moreover, foreign funding of some CSOs raises specific concerns of external intervention in domestic policy priorities, leading to tighter scrutiny under regulations like FCRA and greater suspicion about their intentions. Such fears reinforce claims that they may challenge national interests while asserting public rights.
 
 However, CSOs fundamentally operate within constitutional frameworks and seek to improve governance outcomes. Their role as watchdogs is essential to a healthy democracy. The perception of them being anti-state persists due to their accountability-based engagement, not due to any inherent hostility toward the state.`
+        },
+        {
+    question: "India-Africa digital partnership is achieving mutual respect, co-development and long-term institutional partnerships. Elaborate.",
+    paragraph: `India-Africa digital partnership is emerging as a key pillar of South-South cooperation, based on mutual respect, shared development priorities and long-term institutional collaboration. India supports African countries through affordable digital technologies like Aadhaar-based identity systems, UPI-style payment solutions, and platforms for tele-education and tele-medicine. Initiatives such as Pan-African e-Network, International Solar Alliance’s digital tools and Digital Public Infrastructure cooperation strengthen capacity-building and enable inclusive service delivery across sectors.
+
+Africa benefits from India’s experience in bridging digital divides, developing low-cost innovation and training skilled human resources. India, in turn, gains strategic partnerships, enhanced markets, and long-term goodwill rooted in historical solidarity. Collaboration on cyber security, digital governance standards, start-up incubation and fintech further deepens institutional linkages.
+
+Thus, the partnership moves beyond donor-recipient dynamics to co-creation of solutions, empowering both sides to harness the digital revolution for economic growth, social development and stronger global voice.`
         }
     ]
 };
