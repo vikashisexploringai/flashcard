@@ -123,7 +123,17 @@ However, CSOs fundamentally operate within constitutional frameworks and seek to
 Africa benefits from India’s experience in bridging digital divides, developing low-cost innovation and training skilled human resources. India, in turn, gains strategic partnerships, enhanced markets, and long-term goodwill rooted in historical solidarity. Collaboration on cyber security, digital governance standards, start-up incubation and fintech further deepens institutional linkages.
 
 Thus, the partnership moves beyond donor-recipient dynamics to co-creation of solutions, empowering both sides to harness the digital revolution for economic growth, social development and stronger global voice.`
-        }
+        },
+        {
+    question: "With the waning of globalisation, post-Cold War world is becoming a site of sovereign nationalism. Elucidate.",
+    paragraph: `The post-Cold War period initially promised a borderless world driven by globalisation, economic interdependence, and liberal values. Yet, this ideal is waning as sovereign nationalism resurges worldwide. States increasingly prioritise self-reliance, national security, and policy autonomy over unrestricted global integration.
+
+Events like Brexit, America’s protectionism, and China’s techno-nationalism reflect growing resistance to global institutions perceived as limiting sovereignty. Developing nations too pursue localisation and strategic autonomy through initiatives like “Atmanirbhar Bharat.” The COVID-19 pandemic and Russia–Ukraine conflict further reinforced the need for resilient supply chains and self-sufficiency.
+
+Sovereign nationalism today redefines globalisation — from universal liberalism to transactional cooperation based on national interest. Border control, data sovereignty, and domestic industry revival exemplify this guarded approach.
+
+Thus, the post-Cold War world witnesses not the death of globalisation but its recalibration. The new order is marked by selective interdependence, regional alignments, and pragmatic nationalism replacing earlier faith in global economic convergence.`
+}
     ]
 };
 
