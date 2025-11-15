@@ -161,7 +161,17 @@ Procedural limitations include special majority requirements in both Houses— a
 Substantive limitations arise primarily from judicial interpretation. In the Kesavananda Bharati (1973) judgment, the Supreme Court held that Parliament’s power is wide but not unlimited, restricting amendments that damage or destroy the Basic Structure of the Constitution. Features such as the supremacy of the Constitution, republican and democratic form of government, secularism, federalism, judicial review, balance between fundamental rights and directive principles, and free and fair elections are beyond Parliament’s amending reach. Subsequent judgments, including Minerva Mills and SR Bommai, reinforced that amendments cannot convert limited powers into absolute authority or alter the fundamental character of the polity.
 
 Thus, while the Constitution enables adaptation through parliamentary amendment, procedural rigour and substantive judicial safeguards jointly ensure that constitutional continuity, identity and core democratic principles remain inviolable.`
-}
+},
+        {
+    question: "Discuss the evolution of collegium system in India. Critically examine the advantages and disadvantages of the system of appointment of the Judges of the Supreme Court of India and that of the USA.",
+    paragraph: `The collegium system in India evolved through judicial interpretation rather than constitutional text. Initially, under Articles 124 and 217, the President appointed judges in “consultation” with the Chief Justice of India (CJI). In the First Judges Case (1981), the Supreme Court held that the executive had primacy in appointments. This shifted dramatically in the Second Judges Case (1993), where the Court introduced the collegium, giving primacy to the judiciary in recommending names. The Third Judges Case (1998) clarified its composition— a five-member body for Supreme Court appointments and a three-member body for High Courts. The NJAC Act (2014) sought to replace the collegium with a mixed body, but the Supreme Court struck it down for violating judicial independence, reaffirming collegium primacy.
+
+The collegium system’s advantages include insulation of appointments from political influence, protection of judicial independence, and continuity of institutional values. It prevents partisan capture of the judiciary, a concern in countries with majoritarian governments. However, its disadvantages include opacity, absence of defined criteria, limited diversity, and allegations of nepotism. The lack of formal accountability mechanisms raises concerns about transparency and public trust.
+
+In the United States, Supreme Court judges are appointed by the President and confirmed by the Senate. Advantages include transparency through public confirmation hearings, clear constitutional processes, and democratic accountability. Yet, this system is vulnerable to political polarisation, ideological vetting, and strategic retirements, often resulting in courts reflecting partisan divides.
+
+Thus, while India’s collegium protects independence, it suffers from opacity; the U.S. system promotes transparency but risks politicisation. A balanced reform model for India would preserve independence while enhancing transparency and objective selection criteria.`
+        }
     ]
 };
 
