@@ -133,6 +133,34 @@ Events like Brexit, America’s protectionism, and China’s techno-nationalism 
 Sovereign nationalism today redefines globalisation — from universal liberalism to transactional cooperation based on national interest. Border control, data sovereignty, and domestic industry revival exemplify this guarded approach.
 
 Thus, the post-Cold War world witnesses not the death of globalisation but its recalibration. The new order is marked by selective interdependence, regional alignments, and pragmatic nationalism replacing earlier faith in global economic convergence.`
+},
+        {
+    question: "\"Constitutional morality is the fulcrum which acts as an essential check upon the high functionaries and citizens alike....\" In view of the above observation of the Supreme Court, explain the concept of constitutional morality and its application to ensure balance between judicial independence and judicial accountability in India.",
+    paragraph: `Constitutional morality refers to the ethical commitment of institutions and citizens to the values, procedures and spirit of the Constitution. It requires adherence to rule of law, equality, separation of powers and institutional responsibility, even when majoritarian impulses or political pressures push in the opposite direction. The Supreme Court has emphasised that constitutional morality prevents the misuse of public power and sustains democratic governance.
+
+In the judicial sphere, constitutional morality is central to balancing independence and accountability:
+
+Purpose of judicial independence: It protects decision-making from political influence, partisan pressure and social majoritarianism. Constitutional morality ensures that this independence is exercised to uphold justice and rights, not as personal privilege or institutional immunity.
+
+Nature of judicial accountability: Accountability is not subordination to the executive but responsibility to constitutional limits. Through reasoned judgments, adherence to precedent and transparent processes, judges remain answerable while retaining autonomy.
+
+Institutional mechanisms: The collegium system safeguards independence by reducing executive control, whereas in-house procedures, ethical guidelines, case-disclosure norms and impeachment provisions reinforce accountability. These mechanisms ensure neither excessive judicial insulation nor political dominance.
+
+Judicial conduct expectations: Constitutional morality promotes restraint in policy matters, consistency in reasoning, and sensitivity to constitutional values. When other branches fail to protect rights, it justifies judicial intervention, reinforcing accountability to constitutional purposes.
+
+Transparency as a bridge: Live-streaming of constitutional cases, publication of reasons and digitisation of court records strengthen public trust without eroding independence.
+
+In sum, constitutional morality harmonises the twin objectives of judicial independence and accountability. It ensures that judges remain free from undue influence, yet consistently responsible to constitutional principles, institutional ethics and democratic legitimacy.`
+        },
+        {
+    question: "Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament to change the Constitution.",
+    paragraph: `The Constitution makers vested the power of amendment in India’s ordinary legislative institutions rather than creating a separate constituent body, reflecting their belief in a flexible yet safeguarded constitutional order. However, this amending power under Article 368 is subject to procedural as well as substantive limitations to prevent the erosion of constitutional identity.
+
+Procedural limitations include special majority requirements in both Houses— a majority of the total membership and two-thirds of members present and voting. For federal features, additional ratification by at least half of the State Legislatures is mandatory, covering provisions like the election of the President, distribution of legislative powers, judiciary, and representation of states in Parliament. Further, the bill must be introduced only in Parliament, not in state legislatures, and must receive Presidential assent. These hurdles ensure deliberation, wider consensus, and federal participation in constitutional change.
+
+Substantive limitations arise primarily from judicial interpretation. In the Kesavananda Bharati (1973) judgment, the Supreme Court held that Parliament’s power is wide but not unlimited, restricting amendments that damage or destroy the Basic Structure of the Constitution. Features such as the supremacy of the Constitution, republican and democratic form of government, secularism, federalism, judicial review, balance between fundamental rights and directive principles, and free and fair elections are beyond Parliament’s amending reach. Subsequent judgments, including Minerva Mills and SR Bommai, reinforced that amendments cannot convert limited powers into absolute authority or alter the fundamental character of the polity.
+
+Thus, while the Constitution enables adaptation through parliamentary amendment, procedural rigour and substantive judicial safeguards jointly ensure that constitutional continuity, identity and core democratic principles remain inviolable.`
 }
     ]
 };
