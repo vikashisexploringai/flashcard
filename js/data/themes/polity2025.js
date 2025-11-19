@@ -165,6 +165,44 @@ The collegium system’s advantages include insulation of appointments from poli
 In the United States, Supreme Court judges are appointed by the President and confirmed by the Senate. Advantages include transparency through public confirmation hearings, clear constitutional processes, and democratic accountability. Yet, this system is vulnerable to political polarisation, ideological vetting, and strategic retirements, often resulting in courts reflecting partisan divides.
 
 Thus, while India’s collegium protects independence, it suffers from opacity; the U.S. system promotes transparency but risks politicisation. A balanced reform model for India would preserve independence while enhancing transparency and objective selection criteria.`
+        },
+        {
+    question: "Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India?",
+    paragraph: `The evolving pattern of Centre-State financial relations in India, shaped by planned development, reflects a persistent trend of centralization, albeit with recent reforms attempting to rebalance fiscal federalism.
+
+Evolution in the Context of Planned Development:
+
+The era of planned development, initiated with the Five-Year Plans, cemented the Centre's dominance. The Planning Commission, a non-constitutional body, became the principal architect of national priorities and the allocator of resources to states. This created a channel of funds outside the Finance Commission's recommendations, making states financially dependent on the Centre for plan assistance. The centralization of major tax powers (like Income Tax and Excise Duties) and the proliferation of centrally sponsored schemes (CSS) further constrained states' fiscal autonomy, tailoring their development agendas to national blueprints rather than local needs.
+
+Impact of Recent Reforms:
+
+Recent reforms have significantly impacted this dynamic, with mixed outcomes for fiscal federalism:
+
+Positive Impacts:
+1. Abolition of the Planning Commission: Its replacement with NITI Aayog ended the patron-client relationship for plan funds, symbolically enhancing cooperative federalism.
+2. GST Council: The GST regime, governed by a federal Council with states having a significant voice, is a landmark in cooperative decision-making. It has created a unified national market.
+3. Finance Commission Recommendations: The trend of increasing the states' share of the divisible tax pool to 42% (14th FC) was a major step towards fiscal devolution.
+
+Persisting Challenges:
+1. Centralized Fiscal Power: The Centre retains control over direct taxes and corporation tax, the most buoyant revenue sources.
+2. Proliferation of CSS: While the Planning Commission is gone, many CSS continue, often with conditionalities, impeding states' flexibility.
+3. GST Implementation Issues: Delays in GST compensation, the central government's reliance of cesses, and the structural power imbalance in the Council remain contentious issues.
+
+In conclusion, while recent reforms have moved towards a more collaborative model, the fundamental asymmetry in financial power persists. The shift is more in process than in the substantive redistribution of fiscal sovereignty, and the goal of a balanced fiscal federation remains a work in progress.`
+        },
+        {
+    question: "What are environmental pressure groups? Discuss their role in raising awareness, influencing policies and advocating for environmental protection in India.",
+    paragraph: `Environmental pressure groups are non-governmental organizations (NGOs) and citizen collectives that advocate for environmental protection, conservation, and sustainable development. They operate outside formal government structures but aim to influence public opinion and policy through research, lobbying, campaigns, and direct action.
+
+In India, these groups play a multi-faceted role:
+
+1. Raising Awareness: They are crucial in translating complex environmental issues into public discourse. Through public campaigns, seminars, street plays, and strategic use of media (including social media), they highlight threats like air pollution, deforestation, and wildlife crime. Groups like the Centre for Science and Environment (CSE) publish extensive research, making scientific data accessible to the public and press, thereby fostering an informed citizenry.
+
+2. Influencing Policies: Pressure groups act as a watchdog and a lobby. They engage in policy advocacy by submitting expert opinions to parliamentary committees, drafting model legislation, and lobbying with lawmakers. For instance, the sustained advocacy by groups like Kalpavriksh was instrumental in the enactment of the Forest Rights Act (2006) and the strengthening of the Wildlife Protection Act.
+
+3. Advocating for Protection: They often resort to judicial activism, using the judiciary to enforce environmental laws. The Supreme Court's landmark interventions on issues like Delhi's air pollution (M.C. Mehta cases) and the protection of forests were largely triggered by petitions from environmental activists and groups. They also mobilize grassroots resistance against specific destructive projects, such as the Narmada Bachao Andolan against large dams and numerous movements against mining projects.
+
+In essence, Indian environmental pressure groups fill a critical democratic space. They amplify marginalized voices, hold the state and corporations accountable, and have been pivotal in shaping India's environmental jurisprudence and policy landscape, making environmental protection a central public concern.`
         }
     ]
 };
