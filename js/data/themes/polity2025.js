@@ -136,21 +136,15 @@ Thus, the post-Cold War world witnesses not the death of globalisation but its r
 },
         {
     question: "\"Constitutional morality is the fulcrum which acts as an essential check upon the high functionaries and citizens alike....\" In view of the above observation of the Supreme Court, explain the concept of constitutional morality and its application to ensure balance between judicial independence and judicial accountability in India.",
-    paragraph: `Constitutional morality, as articulated by the Supreme Court, refers to a governing culture where all state actions and individual conduct are guided by the foundational principles and values enshrined in the Constitution. It transcends mere obedience to the constitutional text, demanding a commitment to its spirit—including justice, liberty, equality, fraternity, and the secular character of the state. It acts as a "fulcrum" ensuring that both high functionaries and citizens exercise their power and rights responsibly, preventing majoritarian tyranny and arbitrary state action.
+    paragraph: `Constitutional morality, as articulated by the Supreme Court, is the foundational ethic and the essential \"fulcrum\" of Indian democracy. It represents a shared commitment by all institutions and citizens to the cardinal values of the Constitution—justice, liberty, equality, and fraternity. This concept acts as a vital balancing point, checking the potential tyranny of state power and the possible excesses of majoritarian sentiment, thereby preserving the delicate architecture of the republic.
 
-In the context of the judiciary, constitutional morality ensures a delicate balance between judicial independence and accountability.
+In the context of the judiciary, constitutional morality is the guiding principle that ensures a sustainable equilibrium between judicial independence and judicial accountability.
 
-Independence is protected through constitutional morality by insulating judges from executive and legislative interference. The stringent process for removal, security of tenure, and the primacy of the collegium system in appointments are institutional manifestations. This ensures judges can discharge their duty without fear or favour, upholding the rule of law—a core constitutional value.
+Judicial Independence is protected because constitutional morality demands that judges be insulated from executive interference and populist pressures. This insulation, achieved through security of tenure and the collegium system, is not for the benefit of judges themselves, but to empower them to protect minority rights and individual liberties against potential state overreach. Furthermore, it imposes a duty upon citizens to respect judicial authority, fostering a culture where legal processes are trusted over mob sentiment, thus ensuring the courtroom remains a sanctuary of reasoned deliberation.
 
-Simultaneously, constitutional morality mandates judicial accountability. An utterly unaccountable judiciary is antithetical to a democratic republic. Accountability is enforced not to the government of the day, but to the Constitution itself. This is operationalised through:
+Simultaneously, constitutional morality enforces Judicial Accountability, ensuring the judiciary does not become an unaccountable oligarchy. Judges are accountable not to the government or popular opinion, but to the Constitution itself. This accountability is operationalised through several mechanisms: the requirement for reasoned judgments that are open to scholarly and public scrutiny; the restrained use of contempt powers to allow for legitimate criticism; and the existence of internal investigative procedures to address allegations of misconduct.
 
-1. Public Reason: Judges are accountable through their reasoned judgments, which are open to scholarly and public scrutiny.
-
-2. Contempt Power Restraint: The judiciary's self-restraint in using contempt powers, acknowledging fair criticism.
-
-3. Internal Mechanisms: In-house procedures for investigating misconduct against judges, especially in sub-ordinate judiciary.
-
-Thus, constitutional morality demands that the judiciary remains independent to act as a guardian of the Constitution, while also being accountable to its principles, ensuring it does not become a law unto itself. This balance is essential for a functioning constitutional democracy.`
+Therefore, constitutional morality ensures the judiciary functions as a robust, independent guardian of the Constitution while remaining a disciplined institution accountable to its spirit. This balance, orchestrated by constitutional morality, is indispensable for the legitimacy and endurance of India's constitutional democracy.`
         },
         {
     question: "Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament to change the Constitution.",
