@@ -203,6 +203,27 @@ In India, these groups play a multi-faceted role:
 3. Advocating for Protection: They often resort to judicial activism, using the judiciary to enforce environmental laws. The Supreme Court's landmark interventions on issues like Delhi's air pollution (M.C. Mehta cases) and the protection of forests were largely triggered by petitions from environmental activists and groups. They also mobilize grassroots resistance against specific destructive projects, such as the Narmada Bachao Andolan against large dams and numerous movements against mining projects.
 
 In essence, Indian environmental pressure groups fill a critical democratic space. They amplify marginalized voices, hold the state and corporations accountable, and have been pivotal in shaping India's environmental jurisprudence and policy landscape, making environmental protection a central public concern.`
+        },
+        {
+    question: "\"In contemporary development models, decision-making and problem-solving responsibilities are not located close to the source of information and execution defeating the objectives of development.\" Critically evaluate.",
+    paragraph: `The statement highlights a critical flaw in top-down, centralized development models, where key decisions are made by a distant bureaucracy, far removed from the ground-level reality. This centralization often defeats the very objectives of development, namely efficiency, relevance, and empowerment.
+
+Critical Evaluation:
+
+1. Defeated Objectives:
+
+• Inefficiency and Delays: Information from the field must travel up a long hierarchical chain, and decisions must travel down, causing significant delays. This makes the system slow to respond to local problems and changing circumstances.
+• Irrelevance and Misallocation: Central planners often lack the contextual knowledge of local needs, resources, and cultural nuances. This leads to poorly designed, \"one-size-fits-all\" schemes that are frequently irrelevant or even harmful to the specific community, resulting in wasted resources.
+• Lack of Ownership and Accountability: When communities are mere recipients of decisions made elsewhere, they feel no sense of ownership. This leads to poor maintenance of assets and a lack of accountability among both officials and beneficiaries, undermining project sustainability.
+
+2. The Imperative for Decentralization:
+The critique logically leads to the advocacy for decentralized governance, as envisioned by the 73rd and 74th Constitutional Amendments in India. Locating decision-making closer to the people—through empowered Panchayati Raj Institutions (PRIs) and Urban Local Bodies (ULBs)—ensures that development solutions are context-specific, faster, and more accountable.
+
+3. The Counterpoint – Need for a Balanced Approach:
+A purely localized approach also has limitations. Macro-level challenges like climate change, large infrastructure projects, and national security require centralized planning and resource pooling. The ideal model is not complete decentralization but a subsidiarity principle, where decisions are taken at the lowest appropriate level, with the higher tier providing strategic guidance, resources, and ensuring equity.
+
+Conclusion:
+The statement is largely valid. Centralized decision-making, by creating a disconnect between information and action, is a major impediment to effective and sustainable development. Empowering local governance is not just an administrative choice but a prerequisite for development that is truly responsive, efficient, and inclusive. The challenge lies in forging a synergistic relationship between central authority and local autonomy.`
         }
     ]
 };
