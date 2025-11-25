@@ -238,6 +238,27 @@ The statement is largely valid. Centralized decision-making, by creating a disco
 4. Regional Energy Integration: India will champion regional energy grids, such as the \"One Sun, One World, One Grid\" initiative and cross-border electricity trade with neighbours like Nepal and Bhutan. This positions India as a regional energy hub, enhancing its strategic influence.
 
 In essence, India's foreign policy will be a dynamic tool to build a resilient energy ecosystem—balancing traditional suppliers with new partners, fossil fuels with renewables, and transactional deals with long-term strategic investments to fuel its economic growth.`
+        },
+        {
+    question: "\"The reform process in the United Nations remains unresolved, because of the delicate imbalance of East and West and entanglement of the USA vs. Russo-Chinese alliance.\" Examine and critically evaluate the East-West policy confrontations in this regard.",
+    paragraph: `The statement accurately captures the core political deadlock plaguing United Nations reform, particularly regarding the Security Council (UNSC). The \"delicate imbalance\" and \"entanglement\" refer to the fundamental clash between the established post-WWII power structure and the contemporary geopolitical realities, creating an intractable East-West policy confrontation.
+
+East-West Policy Confrontations:
+
+1. The Core Issue: Security Council Expansion: The primary battleground is the expansion of the UNSC. The \"West,\" led by the G4 nations (India, Japan, Germany, Brazil), argues for expansion in both permanent and non-permanent categories to make the Council more representative, legitimate, and effective. This is seen as a necessary update to the global power structure.
+
+2. The Western (Status-Quo) Stance: The United States, while verbally supporting some reforms (like India's candidacy), is often ambivalent. It fears that a larger, more diverse UNSC could dilute its own influence and ability to act unilaterally. Its primary focus remains on maintaining the efficacy of the Council, often code for its own veto-wielding power.
+
+3. The Russo-Chinese (Conservative) Stance: Russia and China, while part of the \"East\" in this context, are entrenched permanent members who benefit from the current system. They actively resist reforms that would dilute their privileged status and veto power. They often advocate for a broader consensus, a near-impossible threshold, effectively stalling the process. Their alliance aims to counterbalance Western, primarily US, influence within the UN system.
+
+Critical Evaluation:
+
+The confrontation is not a simple moral divide but a pragmatic struggle for power. The West's push for reform is viewed by Russia and China as a strategy to incorporate more US allies, thereby boxing them in. Conversely, the Russo-Chinese blockade is seen by the West and aspiring powers as an illegitimate attempt to cling to outdated privileges.
+
+This deadlock has severe consequences. It erodes the UN's legitimacy and credibility, as it no longer reflects global power distributions. It paralyzes the UNSC on critical issues like Syria and Ukraine, reducing it to a forum for mutual vetoes rather than effective collective security.
+
+Conclusion:
+The UN reform process is indeed a hostage to this East-West power struggle. The \"imbalance\" is between the institutionalized power of the P5 and the aspirational power of emerging states. Until a grand geopolitical bargain can be struck—one that acknowledges the rise of new powers while addressing the strategic insecurities of existing ones—the reform process will remain fundamentally unresolved, undermining the very multilateralism the UN was designed to uphold.`
         }
     ]
 };
