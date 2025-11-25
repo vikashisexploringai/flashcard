@@ -226,6 +226,28 @@ Conclusion:
 The statement is largely valid. Centralized decision-making, by creating a disconnect between information and action, is a major impediment to effective and sustainable development. Empowering local governance is not just an administrative choice but a prerequisite for development that is truly responsive, efficient, and inclusive. The challenge lies in forging a synergistic relationship between central authority and local autonomy.`
         },
         {
+    question: "The National Commission for Protection of Child Rights has to address the challenges faced by children in the digital era. Examine the existing policies and suggest measures the Commission can initiate to tackle the issue.",
+    paragraph: `The digital era presents the National Commission for Protection of Child Rights (NCPCR) with a dual challenge: protecting children from online harms while ensuring they can access the opportunities of the digital world. Existing policies provide a foundational, yet incomplete, framework.
+
+Existing Policies and Gaps:
+
+Key policies include:
+• The Information Technology Act, 2000: Sections 67B criminalizes child sexual abuse material online, but it is largely reactive.
+• POCSO Act, 2012: It addresses cyber grooming and pornography, but implementation in the digital space is challenging.
+• Juvenile Justice Act, 2015: Recognizes children in need of care, which can include online abuse victims.
+
+The primary gap is the absence of a dedicated, comprehensive law. Policies are fragmented and lag behind rapidly evolving threats like cyberbullying, data privacy breaches, and addictive design.
+
+Measures NCPCR can Initiate:
+
+1. Advocacy for a Specific Legal Framework: Champion the creation of a Digital Child Protection Code to consolidate laws, define new-age offenses, and establish accountability for tech platforms.
+2. Develop a Multi-Stakeholder Strategy: Coordinate a national response involving schools, parents, tech companies, and law enforcement.
+3. Promote Digital Literacy and Resilience: Mandate the integration of digital citizenship into school curricula to teach children about online risks, critical thinking, and responsible behaviour.
+4. Strengthen and Integrate Grievance Redressal: The NCPCR should work to specialize the existing 1098 Childline mechanism for the digital era. This includes training responders on cyber-crimes, creating a seamless digital reporting interface, and ensuring swift coordination with cybercrime cells for investigation and victim support.
+
+By shifting from a reactive to a proactive, rights-based approach, the NCPCR can effectively safeguard India's children in the digital age.`
+        },
+        {
     question: "\"Energy security constitutes the dominant kingpin of India's foreign policy, and is linked with India's overarching influence in Middle Eastern countries.\" How would you integrate energy security with India's foreign policy trajectories in the coming years?",
     paragraph: `Energy security, as a \"dominant kingpin,\" necessitates that India's foreign policy be strategically woven around securing reliable, affordable, and diverse energy supplies. In the coming years, this integration will manifest through multi-vector diplomacy, strategic partnerships, and a focus on the entire energy value chain.
 
