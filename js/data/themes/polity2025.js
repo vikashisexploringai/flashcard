@@ -281,6 +281,22 @@ This deadlock has severe consequences. It erodes the UN's legitimacy and credibi
 
 Conclusion:
 The UN reform process is indeed a hostage to this East-West power struggle. The \"imbalance\" is between the institutionalized power of the P5 and the aspirational power of emerging states. Until a grand geopolitical bargain can be struck—one that acknowledges the rise of new powers while addressing the strategic insecurities of existing ones—the reform process will remain fundamentally unresolved, undermining the very multilateralism the UN was designed to uphold.`
+        },
+        {
+    question: "Inequality in the ownership pattern of resources is one of the major cause of poverty. Discuss in the context of 'paradox of poverty'.",
+    paragraph: `The \"paradox of poverty\" refers to the persistent existence of widespread deprivation amidst overall economic growth and an increase in aggregate national wealth. In this context, the highly unequal ownership pattern of key resources—primarily land, capital, and human capital—is not just a correlate but a fundamental cause of poverty, creating a self-perpetuating cycle.
+
+The Causal Link Between Ownership Inequality and Poverty:
+
+In an agrarian economy like India's, land is the primary source of livelihood. A highly skewed land ownership pattern, where a small minority owns large tracts while a vast majority are landless or marginal farmers, means that the benefits of agricultural growth are narrowly concentrated. The landless poor, lacking assets, are forced into low-wage labour, unable to generate surplus or build wealth.
+
+This extends to the modern economy through unequal ownership of capital (factories, machinery, financial assets) and human capital (education, skills). The wealthy can invest capital to generate more income, while the poor, lacking access to quality education and financial resources, remain confined to low-skill, low-wage employment. They cannot afford to invest in their children's human capital, thus reproducing intergenerational poverty.
+
+The \"Paradox\" Explained:
+
+The paradox arises because aggregate economic growth, driven by the productive use of resources by the wealthy, does not automatically \"trickle down\" to the asset-poor. A country's GDP may rise, but if the ownership of the resources generating that GDP is concentrated, the income and wealth generated are also concentrated. The poor, lacking productive assets, cannot significantly participate in or benefit from the growth process. They remain in poverty, acting as a reserve army of labour, which further suppresses wages.
+
+Therefore, without direct state intervention to redistribute assets (e.g., land reforms) or their benefits (via progressive taxation, quality public education, and healthcare), the structural inequality in resource ownership ensures that poverty persists as a paradoxical feature of a growing economy.`
         }
     ]
 };
