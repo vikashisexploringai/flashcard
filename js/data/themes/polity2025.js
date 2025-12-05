@@ -181,8 +181,7 @@ Recent reforms have significantly impacted this dynamic, with mixed outcomes for
 Positive Impacts:
 1. Abolition of the Planning Commission: Its replacement with NITI Aayog ended the patron-client relationship for plan funds, symbolically enhancing cooperative federalism.
 2. GST Council: The GST regime, governed by a federal Council with states having a significant voice, is a landmark in cooperative decision-making. It has created a unified national market.
-3. Finance Commission Recommendations: The trend of increasing the states' share of the divisible tax pool to 42% (14th FC) was a major step towards fiscal devolution.
-
+3. Finance Commission Recommendations: The sharp rise in the states’ share of the divisible tax pool—mandated at 42% by the 14th Finance Commission—marked a major step towards fiscal devolution.
 Persisting Challenges:
 1. Centralized Fiscal Power: The Centre retains control over direct taxes and corporation tax, the most buoyant revenue sources.
 2. Proliferation of CSS: While the Planning Commission is gone, many CSS continue, often with conditionalities, impeding states' flexibility.
