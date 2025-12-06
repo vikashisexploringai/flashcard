@@ -185,7 +185,7 @@ Positive Impacts:
 Persisting Challenges:
 1. Centralized Fiscal Power: The Centre retains control over direct taxes and corporation tax, the most buoyant revenue sources.
 2. Proliferation of CSS: While the Planning Commission is gone, many CSS continue, often with conditionalities, impeding states' flexibility.
-3. GST Implementation Issues: Delays in GST compensation, the central government's reliance of cesses, and the structural power imbalance in the Council remain contentious issues.
+3. GST Implementation Issues: Delays in GST compensation, the central government's reliance on cesses, and the structural power imbalance in the Council remain contentious issues.
 
 In conclusion, while recent reforms have moved towards a more collaborative model, the fundamental asymmetry in financial power persists. The shift is more in process than in the substantive redistribution of fiscal sovereignty, and the goal of a balanced fiscal federation remains a work in progress.`
         },
