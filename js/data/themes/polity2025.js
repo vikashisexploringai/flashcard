@@ -199,8 +199,7 @@ In India, these groups play a multi-faceted role:
 
 2. Influencing Policies: Pressure groups act as a watchdog and a lobby. They engage in policy advocacy by submitting expert opinions to parliamentary committees, drafting model legislation, and lobbying with lawmakers. For instance, the sustained advocacy by groups like Kalpavriksh was instrumental in the enactment of the Forest Rights Act (2006) and the strengthening of the Wildlife Protection Act.
 
-3. Advocating for Protection: They often resort to judicial activism, using the judiciary to enforce environmental laws. The Supreme Court's landmark interventions on issues like Delhi's air pollution (M.C. Mehta cases) and the protection of forests were largely triggered by petitions from environmental activists and groups. They also mobilize grassroots resistance against specific destructive projects, such as the Narmada Bachao Andolan against large dams and numerous movements against mining projects.
-
+3. Advocating for Protection: They often resort to judicial activism, using the judiciary to enforce environmental laws. The Supreme Court's landmark interventions on issues like Delhi's air pollution (M.C. Mehta cases) and the protection of forests were largely triggered by petitions from environmental activists and groups. They also mobilize grassroots resistance against specific destructive projects, as seen in the iconic struggle against the Sardar Sarovar Dam (Narmada Bachao Andolan) and in numerous movements against mining projects.
 In essence, Indian environmental pressure groups fill a critical democratic space. They amplify marginalized voices, hold the state and corporations accountable, and have been pivotal in shaping India's environmental jurisprudence and policy landscape, making environmental protection a central public concern.`
         },
         {
