@@ -230,7 +230,7 @@ The statement is largely valid. Centralized decision-making, by creating a disco
 Existing Policies and Gaps:
 
 Key policies include:
-• The Information Technology Act, 2000: Sections 67B criminalizes child sexual abuse material online, but it is largely reactive.
+• The Information Technology Act, 2000: Sections 67B criminalizes online child sexual abuse material, but it is largely reactive.
 • POCSO Act, 2012: It addresses cyber grooming and pornography, but implementation in the digital space is challenging.
 • Juvenile Justice Act, 2015: Recognizes children in need of care, which can include online abuse victims.
 
