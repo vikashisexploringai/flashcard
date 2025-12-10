@@ -232,7 +232,7 @@ Existing Policies and Gaps:
 Key policies include:
 • The Information Technology Act, 2000: Sections 67B criminalizes online child sexual abuse material, but it is largely reactive.
 • POCSO Act, 2012: It addresses cyber grooming and pornography, but implementation in the digital space is challenging.
-• Juvenile Justice Act, 2015: Recognizes children in need of care, which can include online abuse victims.
+• Juvenile Justice Act, 2015: Recognizes children in need of care and protection(CNCP), which can include online abuse victims.
 
 The primary gap is the absence of a dedicated, comprehensive law. Policies are fragmented and lag behind rapidly evolving threats like cyberbullying, data privacy breaches, and addictive design.
 
