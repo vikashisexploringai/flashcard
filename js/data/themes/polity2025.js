@@ -261,25 +261,12 @@ In essence, India's foreign policy will be a dynamic tool to build a resilient e
         },
         {
     question: "\"The reform process in the United Nations remains unresolved, because of the delicate imbalance of East and West and entanglement of the USA vs. Russo-Chinese alliance.\" Examine and critically evaluate the East-West policy confrontations in this regard.",
-    paragraph: `The statement accurately captures the core political deadlock plaguing United Nations reform, particularly regarding the Security Council (UNSC). The \"delicate imbalance\" and \"entanglement\" refer to the fundamental clash between the established post-WWII power structure and the contemporary geopolitical realities, creating an intractable East-West policy confrontation.
+    paragraph: `The protracted deadlock in United Nations Security Council (UNSC) reform is fundamentally rooted in a geopolitical impasse between established and emerging powers, often framed as an East-West confrontation. The core of this stalemate is the clash over expansion and veto power. The United States and its Western allies, while selectively supporting candidates like India, are reluctant to dilute the Council’s efficacy—a euphemism for their own influence. Conversely, the Russo-Chinese alliance actively obstructs reforms that would diminish their privileged status, viewing them as a Western strategy to consolidate a liberal order. This is evident in China’s opposition to the G4 proposals and the recurrent use of the veto to block resolutions on Syria and Myanmar, underscoring a deep ideological divide between sovereignty-centric and interventionist doctrines.
 
-East-West Policy Confrontations:
+However, reducing the blockage solely to this bipolar rivalry offers an incomplete picture. A critical evaluation reveals that collective P5 privilege is the more profound barrier; all permanent members, East or West, benefit from the status quo and resist diluting their exclusive power. Furthermore, the North-South divide complicates the consensus, as articulated by the African Union’s Ezulwini Consensus demanding equitable representation, which sometimes clashes with Asian aspirations. The consensus-based Intergovernmental Negotiations (IGN) process, lacking a definitive text, institutionalizes this inertia.
 
-1. The Core Issue: Security Council Expansion: The primary battleground is the expansion of the UNSC. The \"West,\" led by the G4 nations (India, Japan, Germany, Brazil), argues for expansion in both permanent and non-permanent categories to make the Council more representative, legitimate, and effective. This is seen as a necessary update to the global power structure.
-
-2. The Western (Status-Quo) Stance: The United States, while verbally supporting some reforms (like India's candidacy), is often ambivalent. It fears that a larger, more diverse UNSC could dilute its own influence and ability to act unilaterally. Its primary focus remains on maintaining the efficacy of the Council, often code for its own veto-wielding power.
-
-3. The Russo-Chinese (Conservative) Stance: Russia and China, while part of the \"East\" in this context, are entrenched permanent members who benefit from the current system. They actively resist reforms that would dilute their privileged status and veto power. They often advocate for a broader consensus, a near-impossible threshold, effectively stalling the process. Their alliance aims to counterbalance Western, primarily US, influence within the UN system.
-
-Critical Evaluation:
-
-The confrontation is not a simple moral divide but a pragmatic struggle for power. The West's push for reform is viewed by Russia and China as a strategy to incorporate more US allies, thereby boxing them in. Conversely, the Russo-Chinese blockade is seen by the West and aspiring powers as an illegitimate attempt to cling to outdated privileges.
-
-This deadlock has severe consequences. It erodes the UN's legitimacy and credibility, as it no longer reflects global power distributions. It paralyzes the UNSC on critical issues like Syria and Ukraine, reducing it to a forum for mutual vetoes rather than effective collective security.
-
-Conclusion:
-The UN reform process is indeed a hostage to this East-West power struggle. The \"imbalance\" is between the institutionalized power of the P5 and the aspirational power of emerging states. Until a grand geopolitical bargain can be struck—one that acknowledges the rise of new powers while addressing the strategic insecurities of existing ones—the reform process will remain fundamentally unresolved, undermining the very multilateralism the UN was designed to uphold.`
-        },
+Thus, UNSC reform is trapped between the urgency for representational legitimacy and the inertia of structural oligarchy. The challenge is not merely reconciling East-West rivalries but negotiating a grand bargain that addresses the vested interests of the P5 while accommodating the legitimate aspirations of the Global South. Without this, the UN risks escalating irrelevance in managing 21st-century global security.`
+},
         {
     question: "Inequality in the ownership pattern of resources is one of the major cause of poverty. Discuss in the context of 'paradox of poverty'.",
     paragraph: `The \"paradox of poverty\" refers to the persistent existence of widespread deprivation amidst overall economic growth and an increase in aggregate national wealth. In this context, the highly unequal ownership pattern of key resources—primarily land, capital, and human capital—is not just a correlate but a fundamental cause of poverty, creating a self-perpetuating cycle.
