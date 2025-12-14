@@ -1,4 +1,4 @@
-const articlesTheme = {
+const definitionsTheme = {
     id: 'definitions',
     name: 'Misc Definitions',
     description: 'Important Definitions',
