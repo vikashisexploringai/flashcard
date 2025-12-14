@@ -10,4 +10,4 @@ const definitionsTheme = {
     ]
 };
 
-ThemeLoader.registerTheme(articlesTheme);
+ThemeLoader.registerTheme(definitionsTheme);
