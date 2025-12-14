@@ -1,7 +1,8 @@
 // List all theme files here
 const themeFiles = [
     'polity2025',
-    'articles'
+    'articles',
+    'definitions'
 ];
 
 // Load all theme files dynamically
