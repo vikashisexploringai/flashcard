@@ -1,4 +1,4 @@
-const paperITheme = {
+const paperI2021Theme = {
     id: 'Paper I 2021',
     name: 'Paper I 2021',
     description: 'Mains 2021 Paper I questions',
