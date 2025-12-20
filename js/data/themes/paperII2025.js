@@ -1,7 +1,7 @@
-const polity2025Theme = {
-    id: 'polity2025',
-    name: 'Polity 2025',
-    description: 'Mains 2025 Polity Questions',
+const paperII2025Theme = {
+    id: 'paperII2025',
+    name: 'Paper II 2025',
+    description: 'Mains 2025 Paper II Questions',
     flashcards: [
         {
             question: 'Discuss the \'corrupt practices\' for the purpose of the Representation of the People Act, 1951. Analyze whether the increase in the assets of the legislators and/or their associates, disproportionate to their known sources of income, would constitute \'undue influence\' and consequently a corrupt practice. 150 words',
@@ -286,4 +286,4 @@ Therefore, without direct state intervention to redistribute assets (e.g., land 
     ]
 };
 
-ThemeLoader.registerTheme(polity2025Theme);
+ThemeLoader.registerTheme(paperII2025Theme);
