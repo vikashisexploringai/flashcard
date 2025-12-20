@@ -1,6 +1,6 @@
 // List all theme files here
 const themeFiles = [
-    'polity2025',
+    'paperII2025',
     'articles',
     'definitions'
 ];
