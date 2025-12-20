@@ -1,7 +1,7 @@
 const paperITheme = {
     id: 'Paper I 2021',
     name: 'Paper I 2021',
-    description: 'Paper I 2021 questions',
+    description: 'Mains 2021 Paper I questions',
     flashcards: [
         {
     question: 'Article 72',
