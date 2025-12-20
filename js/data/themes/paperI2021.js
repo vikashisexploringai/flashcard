@@ -27,8 +27,7 @@ Together, these movements challenged orthodoxy, inspired modern Indian thought, 
 Socio-culturally, integrating diverse regions with distinct languages, customs, and loyalties required building a pan-Indian identity. Some princely states like Hyderabad, Junagadh, and Kashmir resisted accession, leading to military and diplomatic efforts. Local populations had varying degrees of attachment to their rulers, which created tensions. Moreover, feudal privileges had to be abolished, which faced opposition from former royal elites.
 
 Despite these issues, successful integration under leaders like Sardar Patel and V.P. Menon ensured political unity and laid the foundation for a democratic and federal India.`
-}
-
+},
 {
     question: "Differentiate the causes of landslides in the Himalayan region and Western ghats",
     paragraph: `Landslides in the Himalayan region and the Western Ghats occur due to distinct geological and environmental factors. The Himalayas are geologically young, tectonically active, and composed of fragile sedimentary rocks, making them more prone to seismic activity and slope instability. Frequent earthquakes, intense rainfall, and unplanned infrastructure development, such as road construction and hydropower projects, further destabilize the terrain. Deforestation and population pressure add to the vulnerability.
@@ -36,8 +35,7 @@ Despite these issues, successful integration under leaders like Sardar Patel and
 In contrast, the Western Ghats are older, more stable, and composed mainly of hard rocks. Here, landslides are primarily triggered by intense monsoonal rainfall, especially during cloudbursts. The steep slopes, lateritic soil, and deforestation for plantations increase water infiltration and weaken slope stability. Human interventions like mining and construction also play a role.
 
 Thus, while both regions experience landslides, the Himalayas face geotectonic and seismic causes, whereas in the Western Ghats, rainfall and land use changes are the dominant triggers.`
-}
-
+},
 {
     question: "Despite India being one of the countries of the Gondwana land, its mining industry contributes much less to its gross domestic product in percentage. Discuss.",
     paragraph: `India, part of the ancient Gondwana landmass, is richly endowed with minerals like coal, iron ore, bauxite, and manganese. However, the mining sector contributes less than 2% to India’s GDP, which is low given its resource base. Several factors contribute to this underperformance.
@@ -45,8 +43,7 @@ Thus, while both regions experience landslides, the Himalayas face geotectonic a
 First, regulatory hurdles, delays in environmental clearances, and complex land acquisition processes deter investment. Second, much of India’s mineral wealth lies in ecologically sensitive or tribal regions, leading to socio-environmental conflicts and resistance. Third, outdated technology, low productivity, and poor infrastructure reduce efficiency. Additionally, a lack of exploration and private participation in deep mining has limited the discovery of new reserves.
 
 Furthermore, mining in India has often been marred by illegal practices and poor rehabilitation policies, affecting its sustainability. While rich in resources, the sector’s contribution remains limited due to policy, environmental, and operational challenges, calling for balanced reforms to unlock its full potential.`
-}
-
+},
 {
     question: "What are the environmental implications of the reclamation of water bodies into urban land use? Explain with examples.",
     paragraph: `Reclamation of water bodies for urban land use leads to significant environmental degradation. Natural lakes, wetlands, and ponds act as flood buffers, groundwater recharge zones, and biodiversity hotspots. Their loss disrupts urban hydrology, increasing flood risk, as seen in the 2015 Chennai floods, where encroachment on wetlands like Pallikaranai aggravated the disaster.
@@ -56,8 +53,7 @@ Reclaimed areas reduce permeable surfaces, limiting rainwater absorption and con
 In cities like Mumbai, reclamation of the Mithi River floodplain for infrastructure has led to frequent monsoon flooding. Bengaluru’s shrinking lakes have caused water shortages and pollution due to unchecked urban expansion.
 
 Overall, such reclamation compromises urban sustainability, calling for integrated planning that balances development with conservation of water bodies.`
-}
-
+},
 {
     question: "Why is India considered as a subcontinent? Elaborate your answer.",
     paragraph: `India is considered a subcontinent due to its distinct geographical, geological, and cultural identity within the larger continent of Asia. Geographically, it is separated from the rest of Asia by natural barriers like the Himalayas in the north and the oceans on the south, forming a clearly defined landmass that projects into the Indian Ocean.
@@ -67,8 +63,7 @@ Geologically, India sits on its own tectonic plate—the Indian Plate—which co
 Culturally and historically, India has evolved unique civilizations, languages, and religions like Hinduism, Buddhism, and Jainism. The region includes diverse landscapes—from deserts and plains to plateaus and coasts—supporting varied ecosystems and ways of life.
 
 Additionally, the Indian subcontinent includes India, Pakistan, Bangladesh, Nepal, Bhutan, and Sri Lanka, forming a cohesive yet diverse region with shared historical roots but distinct development paths.`
-}
-
+},
 {
     question: "Examine the uniqueness of tribal knowledge system when compared with mainstream knowledge and cultural systems.",
     paragraph: `The tribal knowledge system is unique, holistic, and deeply rooted in nature, contrasting with mainstream knowledge systems that are often compartmentalized and institutionalized. Tribal knowledge is passed down orally through generations, embedded in rituals, folklore, and daily practices, and is closely linked to local ecology.
@@ -78,8 +73,7 @@ Unlike mainstream systems that prioritize formal education and scientific valida
 Culturally, tribal communities maintain egalitarian social structures, distinct languages, art forms, and worldviews that promote coexistence rather than dominance over nature. Their conservation practices—like sacred groves and shifting cultivation—demonstrate ecological wisdom.
 
 Thus, the tribal knowledge system is not only distinct but also complementary to mainstream systems, offering insights for sustainable living and cultural diversity.`
-}
-
+},
 {
     question: "Examine the role of gig economy in the process of empowerment of women in India.",
     paragraph: `The gig economy has emerged as a significant platform for the empowerment of women in India by offering flexible and decentralized work opportunities. Unlike traditional employment, gig work allows women to balance household responsibilities with income generation, enabling greater financial independence.
@@ -87,8 +81,7 @@ Thus, the tribal knowledge system is not only distinct but also complementary to
 Digital platforms reduce the barriers of geography and formal education, allowing women to engage in diverse roles such as freelancing, online tutoring, content creation, and service delivery. This fosters entrepreneurial thinking and builds self-confidence. Moreover, gig work can help women re-enter the workforce after career breaks, especially in urban and semi-urban areas.
 
 However, challenges remain, such as lack of social security, job stability, and digital access. Despite these, the gig economy has opened up new pathways for women to assert agency, build skills, and participate in the economy on their own terms, contributing to broader social and economic empowerment.`
-}
-
+},
 {
     question: "To what extent did the role of the Moderates prepare a base for the wider freedom movement ? Comment.",
     paragraph: `The Moderates, active in the Indian National Congress between 1885 and 1905, played a foundational role in preparing the ground for India’s wider freedom movement. Though often criticized for their constitutional and gradualist approach, their contributions were vital in shaping national consciousness.
@@ -100,8 +93,7 @@ Importantly, the Moderates fostered the idea of India as a nation, uniting peopl
 While they failed to mobilize the masses or achieve immediate political gains, their strategies created a sense of shared grievances and instilled political education among Indians. Their methods and limitations prompted the rise of assertive nationalists and later Gandhian mass movements, showing a clear continuity in the freedom struggle.
 
 Thus, the Moderates may not have delivered immediate results, but they laid the ideological, institutional, and organizational foundation on which the broader and more radical phases of the Indian independence movement were built.`
-}
-
+},
 {
     question: "Bring out the constructive programs of Mahatma Gandhi during Non-Cooperation Movement and Civil Disobedience Movement.",
     paragraph: `Mahatma Gandhi’s constructive programs during the Non-Cooperation (1920–22) and Civil Disobedience (1930–34) movements were crucial in transforming the freedom struggle into a mass-based, socially reformative campaign. These programs aimed at nation-building and social transformation alongside political agitation.
@@ -111,8 +103,7 @@ During the Non-Cooperation Movement, Gandhi emphasized boycott of foreign goods,
 The Civil Disobedience Movement expanded the scope of constructive work. Gandhi placed Harijan (Dalit) upliftment at the heart of his agenda, advocating temple entry, access to public spaces, and social dignity for marginalized communities. The movement also saw unprecedented participation of women. Inspired by Gandhi’s call, women across India engaged in picketing liquor and foreign cloth shops, spinning Khadi, and even leading local salt marches, marking their emergence as vital participants in the national movement and challenging traditional gender norms.
 
 Gandhi’s constructive programs thus went beyond political protest; they aimed to reform society, empower the marginalized, and prepare the masses for swaraj (self-rule). These initiatives mobilized grassroots support, built moral legitimacy for the movement, and laid a blueprint for social justice and participatory democracy in independent India.`
-}
-
+},
 {
     question: "\"There arose a serious challenge to the democratic state system between the two world wars.\" Evaluate the statement.",
     paragraph: `The period between the two World Wars (1919–1939) witnessed a serious challenge to the democratic state system, marked by the rise of totalitarian regimes, economic crises, and ideological polarization. The optimism that followed World War I and the creation of democratic republics in many European countries quickly gave way to disillusionment due to political instability, social unrest, and economic hardship—especially after the Great Depression of 1929.
@@ -124,8 +115,7 @@ Meanwhile, communist ideology took root in the Soviet Union under Stalin, which,
 Even in established democracies like Britain and France, economic constraints and fear of communism led to compromises in civil liberties and colonial repression. The failure of the League of Nations to prevent aggression in Manchuria, Ethiopia, and Czechoslovakia further reflected the weakness of democratic consensus and international cooperation.
 
 In essence, the interwar period posed a grave challenge to democracy, as extreme ideologies capitalized on instability and discontent. This ultimately led to World War II, underlining the fragility of democracy in times of crisis.`
-}
-
+},
 {
     question: "Briefly mention the alignment of major mountain ranges of the world and explain their impact on local weather conditions, with examples.",
     paragraph: `Major mountain ranges of the world are generally aligned in two prominent directions: north-south and east-west.
@@ -137,8 +127,7 @@ East-west aligned ranges include the Himalayas, Alps in Europe, and Atlas Mounta
 Mountains also shape local microclimates. For example, valleys may experience temperature inversions, while high-altitude zones display alpine climates. Their orientation, height, and distance from oceans influence wind patterns, rainfall, and temperature, ultimately affecting agriculture, biodiversity, and human settlement.
 
 Thus, the alignment and structure of mountain ranges play a vital role in shaping both regional and local weather patterns.`
-}
-
+},
 {
     question: "How do the melting of the Arctic ice and glaciers of the Antarctic differently affect the weather patterns and human activities on the Earth? Explain.",
     paragraph: `The melting of Arctic ice and Antarctic glaciers both have profound but distinct impacts on global weather patterns and human activities due to their geographical, climatic, and oceanic contexts.
@@ -150,8 +139,7 @@ In contrast, Antarctica, a landmass surrounded by ocean, mainly contributes to s
 In terms of human activity, Arctic melting opens new shipping routes (e.g., Northern Sea Route), potential resource exploration, and geopolitical tensions. Conversely, Antarctic melting threatens coastal cities worldwide due to sea-level rise but has limited immediate economic opportunities due to legal protections under the Antarctic Treaty.
 
 In summary, Arctic melting disrupts weather systems and accelerates warming, while Antarctic melting has long-term global impacts through sea-level rise and oceanic changes.`
-}
-
+},
 {
     question: "Discuss the multidimensional implications of uneven distribution of mineral oil in the world.",
     paragraph: `The uneven distribution of mineral oil across the world has far-reaching economic, political, strategic, and environmental implications, shaping global geopolitics and development patterns.
@@ -181,8 +169,7 @@ However, this growth has also created challenges. Rapid urbanization has led to 
 Further, the concentration of IT industries in select cities has led to regional imbalance, as rural and non-IT regions lag behind in employment and development. The industry’s reliance on English and digital literacy also excludes large segments of the population.
 
 In summary, while the IT industry has driven economic growth, urbanization, and social mobility, it has also triggered urban challenges and disparities, requiring balanced regional planning and inclusive development policies.`
-}
-
+},
 {
     question: "Discuss the main objectives of population education and point out the measures to achieve them in India in detail.",
     paragraph: `Population education aims to create awareness and understanding of population dynamics and their impact on individual well-being, societal development, and environmental sustainability. In the Indian context, where population pressure influences economic and social planning, population education serves several key objectives.
@@ -212,8 +199,7 @@ Promoting access to healthcare and family planning services, particularly in rur
 Encouraging late marriages and girls’ education, which are directly linked to reduced fertility rates.
 
 In conclusion, population education in India is essential for fostering informed, responsible, and sustainable choices, and requires a multi-pronged approach involving education, healthcare, and community participation.`
-}
-
+},
 {
     question: "How does Indian society maintain continuity in traditional social values? Enumerate the changes taking place in it.",
     paragraph: `Indian society has shown remarkable continuity in traditional social values despite rapid modernization and globalization. This continuity is rooted in deep cultural, religious, and philosophical foundations, transmitted across generations through family structures, rituals, festivals, language, and customs.
