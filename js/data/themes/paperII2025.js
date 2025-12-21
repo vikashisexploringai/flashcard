@@ -1,7 +1,7 @@
 const paperII2025Theme = {
     id: 'paperII2025',
     name: 'Paper II 2025',
-    description: 'Tough questions: 4, 6',
+    description: 'Tough questions: 4, 6, 8',
     flashcards: [
         {
             question: 'Discuss the \'corrupt practices\' for the purpose of the Representation of the People Act, 1951. Analyze whether the increase in the assets of the legislators and/or their associates, disproportionate to their known sources of income, would constitute \'undue influence\' and consequently a corrupt practice. 150 words',
