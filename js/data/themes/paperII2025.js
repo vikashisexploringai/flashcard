@@ -48,7 +48,7 @@ In contrast, the U.S. President enjoys broader clemency powers under Article II,
 Preemptive pardons are those granted before formal charges or conviction, effectively protecting individuals from future prosecution, as famously seen in President Ford’s pardon of Nixon.`
 },
         {
-    question: '"The Attorney General of India plays a crucial role in guiding the legal framework of the Union Government and ensuring sound governance through legal counsel." Discuss his responsibilities, rights and limitations in this regard.',
+    question: "\"The Attorney General of India plays a crucial role in guiding the legal framework of the Union Government and ensuring sound governance through legal counsel.\" Discuss his responsibilities, rights and limitations in this regard.",
     paragraph: `The Attorney General of India (AGI) is the chief legal advisor to the Union, appointed under Article 76 of the Constitution.
 
 Responsibilities (Article 76(2)):
@@ -57,14 +57,15 @@ Perform other legal duties and functions conferred by the Constitution or by any
 
 Rights:
 Right of audience in all courts in the territory of India for effective representation (Article 76(3)).
-Right to speak and take part in the proceedings of both Houses of Parliament, including joint sittings, and to participate in parliamentary committees where he may be named a member, but without the power to vote (Article 88).
+Right to speak and take part in the proceedings of both Houses of Parliament, including joint sittings, and to participate in parliamentary committees where he may be named a member (Article 88).
 
 Limitations:
-Holds office during the pleasure of the President and remuneration is determined by the President (Article 76(4)).
-Lacks security of tenure, limiting full independence from the executive.
-By professional ethics cannot appear against the Government of India or take briefs causing conflict of interest.
+Non-Binding Advice: His counsel is consultative only; the government is free to disregard his legal advice.
+No Executive Authority: He has no power to enforce his guidance or veto government actions based on his legal opinion.
+Limited Mandatory Consultation: The government is not constitutionally required to consult him on all legal matters.
+Parliamentary Participation Without Vote: His right to participate in Parliament does not include the power to vote.
 
-Thus, the AGI supports constitutional governance while bound by executive control.`
+Thus, the AGI supports constitutional governance through expert counsel, but his role is constrained by the non-binding nature of his advice and his lack of executive or legislative authority.`
         },
         {
     question: "Women's social capital complements in advancing empowerment and gender equity. Explain.",
