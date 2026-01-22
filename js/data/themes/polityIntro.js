@@ -1,4 +1,4 @@
-const polityIntroheme = {
+const polityIntroTheme = {
     id: 'polityIntro',
     name: 'Intro and Conclusions in Polity',
     description: 'Intro and Conclusions of Polity Questions',
