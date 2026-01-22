@@ -3,7 +3,8 @@ const themeFiles = [
     'paperII2025',
     'articles',
     'definitions',
-    'paperI2021'
+    'paperI2021',
+    'polityIntro'
 ];
 
 // Load all theme files dynamically
