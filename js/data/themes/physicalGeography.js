@@ -21,7 +21,35 @@ Fjords combine dramatic geological scales with serene beauty, creating world-ren
 3. Tranquil Complexity: Their serpentine, branching structure creates ever-changing vistas. Calm waters reflect the mountains and sky, while the interplay of light and shadow across the deep valleys adds a mystical quality. The mix of snow, rock, forest, and sea in one frame epitomizes pristine natural beauty.
 
 In essence, fjords are picturesque because they showcase the raw, sculpting power of ice ages combined with the calming, reflective presence of the sea, all set within remote and rugged wilderness—a visually powerful union of geological force and serene beauty.`
-}
+},
+        {
+    question: "What do you understand by the theory of continental drift? Discuss the prominent evidences in its support.",
+    paragraph: `The theory of continental drift was proposed by Alfred Wegener in 1912. It states that the continents were once joined together in a single supercontinent called Pangaea, which began breaking apart around 200 million years ago and slowly drifted to their present positions.
+
+Key Evidences Supporting Continental Drift:
+
+1. Jigsaw Fit of Continents:
+   • The coastlines of continents, particularly South America and Africa, fit together remarkably well, suggesting they were once connected.
+
+2. Geological Evidence:
+   • Mountain ranges of similar age and structure match across continents. Example: The Appalachian Mountains (USA) align with mountains in Scotland and Scandinavia.
+   • Identical rock formations and mineral deposits are found on opposite sides of the Atlantic.
+
+3. Fossil Evidence:
+   • Fossils of identical land-dwelling species (which could not have crossed oceans) are found on now-separated continents. Examples:
+     • Mesosaurus (freshwater reptile) in South America and Africa.
+     • Glossopteris (fern) fossils in India, Australia, Antarctica, and South Africa.
+
+4. Paleoclimatic Evidence:
+   • Evidence of past glaciations (tillite deposits) in now-tropical regions (India, Africa), and coal deposits in cold regions (Antarctica), indicate continents were once in different climatic zones.
+
+5. Paleomagnetic Evidence (added later):
+   • Studies of the Earth’s past magnetic field recorded in rocks show that continents have moved relative to the poles over geological time.
+
+Limitation and Later Development:
+
+Wegener’s theory was initially rejected because he could not explain the mechanism behind the drift. It was later superseded and validated by the theory of plate tectonics in the 1960s, which explained continental movement through seafloor spreading and mantle convection.`
+        }
     ]
 };
 
