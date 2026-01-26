@@ -1,5 +1,5 @@
 const physicalGeographyTheme = {
-    id: '',
+    id: 'physicalGeography',
     name: 'Physical Geography Questions',
     description: 'Mains Question on Physical Geography',
     flashcards: [
@@ -25,4 +25,4 @@ In essence, fjords are picturesque because they showcase the raw, sculpting powe
     ]
 };
 
-physicalGeographyTheme;
+ThemeLoader.registerTheme(physicalGeographyTheme);
