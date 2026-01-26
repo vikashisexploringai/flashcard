@@ -4,7 +4,8 @@ const themeFiles = [
     'articles',
     'definitions',
     'paperI2021',
-    'polityIntro'
+    'polityIntro',
+    'physicalGeography'
 ];
 
 // Load all theme files dynamically
