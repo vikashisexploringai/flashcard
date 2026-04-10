@@ -1,4 +1,12 @@
-{
+
+
+
+const currentAffairsPaperIITheme = {
+    id: 'currentAffairsPaperIITheme',
+    name: 'Paper II Current Affairs',
+    description: 'Paper II Possible Current Affairs Questions',
+    flashcards: [
+        {
     question: "The shift from a punitive regulatory model to 'trust-based governance' is central to the Jan Vishwas (Amendment of Provisions) Bill, 2025-26. Critically examine how this Bill advances the principles of proportionality, equity, and judicial efficiency, while noting the potential implementation challenges it may face.",
     paragraph: `The Jan Vishwas (Amendment of Provisions) Bill, 2025-26, aims to fundamentally reorient India's regulatory framework by replacing punitive criminal sanctions with proportionate civil penalties for minor procedural lapses, thereby operationalizing 'trust-based governance'.
 
@@ -22,3 +30,7 @@ Potential implementation challenges:
 
 The Bill is a serious and overdue reform, but its success hinges on robust institutional capacity, meaningful oversight, and functional appellate checks.`
 }
+    ]
+};
+
+ThemeLoader.registerTheme(currentAffairsPaperIITheme);
