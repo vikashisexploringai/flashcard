@@ -2,7 +2,7 @@
 
 
 const currentAffairsPaperIITheme = {
-    id: 'currentAffairsPaperIITheme',
+    id: 'currentAffairsPaperII',
     name: 'Paper II Current Affairs',
     description: 'Paper II Possible Current Affairs Questions',
     flashcards: [
