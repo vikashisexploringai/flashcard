@@ -4,7 +4,7 @@ const physicalGeographyTheme = {
     description: 'Mains Question on Physical Geography',
     flashcards: [
 {
-    question: "How are the fjords formed? Why do they constitute some of the most picturesque areas of the world.",
+    question: "How are the fjords formed? Why do they constitute some of the most picturesque areas of the world.(Keywords - Glacial Carving, Sea Flooding, Sheer Scale & Drama, Pristine Wilderness, and Tranquil Complexity)",
     paragraph: `Formation of Fjords:
 
 Fjords are deep, glacially-carved valleys flooded by the sea. They form through a multi-stage process:
