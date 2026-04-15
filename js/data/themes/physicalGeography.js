@@ -24,7 +24,7 @@ Fjords combine dramatic geological scales with serene beauty, creating world-ren
 In essence, fjords are picturesque because they showcase the raw, sculpting power of ice ages combined with the calming, reflective presence of the sea, all set within remote and rugged wilderness—a visually powerful union of geological force and serene beauty.`
 },
         {
-    question: "What do you understand by the theory of continental drift? Discuss the prominent evidences in its support.",
+    question: "What do you understand by the theory of continental drift? Discuss the prominent evidences in its support.(Jigsaw fit of continents, geological, fossil, paleoclimatic, paleomagnetic)",
     paragraph: `The theory of continental drift was proposed by Alfred Wegener in 1912. It states that the continents were once joined together in a single supercontinent called Pangaea, which began breaking apart around 200 million years ago and slowly drifted to their present positions.
 
 Key Evidences Supporting Continental Drift:
