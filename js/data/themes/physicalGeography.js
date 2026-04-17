@@ -37,7 +37,7 @@ Key Evidences Supporting Continental Drift:
    • Identical rock formations and mineral deposits are found on opposite sides of the Atlantic.For example, gold-bearing placer deposits found on the coast of Ghana align perfectly with those in Brazil.
 
 3. Fossil Evidence:
-   • Fossils of identical land-dwelling species (which could not have crossed oceans) are found on now-separated continents. Examples:
+   • Fossils of members belonging to the same land-dwelling species (which could not have crossed oceans) are found on now-separated continents. Examples:
      • Mesosaurus (freshwater reptile) in South America and Africa.
      • Glossopteris (fern) fossils in India, Australia, Antarctica, and South Africa.
 
