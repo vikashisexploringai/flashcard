@@ -34,7 +34,7 @@ Key Evidences Supporting Continental Drift:
 
 2. Geological Evidence:
    • Mountain ranges of similar age and structure match across continents. Example: The Appalachian Mountains (USA) align with mountains in Scotland and Scandinavia.
-   • Identical rock formations and mineral deposits are found on opposite sides of the Atlantic.For example, matching gold-bearing placer deposits found on the coast of Ghana align perfectly with those in Brazil.
+   • Identical rock formations and mineral deposits are found on opposite sides of the Atlantic.For example, gold-bearing placer deposits found on the coast of Ghana align perfectly with those in Brazil.
 
 3. Fossil Evidence:
    • Fossils of identical land-dwelling species (which could not have crossed oceans) are found on now-separated continents. Examples:
