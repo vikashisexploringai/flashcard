@@ -42,7 +42,7 @@ Key Evidences Supporting Continental Drift:
      • Glossopteris (fern) fossils in India, Australia, Antarctica, and South Africa.
 
 4. Paleoclimatic Evidence:
-   • Evidence of past glaciations (tillite deposits) in now-tropical regions (India, Africa), and coal deposits in cold regions (Antarctica), indicate that continents were once in different climatic zones.
+   • Evidence of past glaciations (tillite deposits) in now-tropical regions (India, Africa), and coal deposits in cold regions (Antarctica), indicate that the continents were once in different climatic zones.
 
 5. Paleomagnetic Evidence (added later):
    • Studies of the Earth’s past magnetic field recorded in rocks show that continents have moved relative to the poles over geological time.
