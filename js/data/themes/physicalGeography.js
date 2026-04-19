@@ -38,7 +38,7 @@ Key Evidences Supporting Continental Drift:
 
 3. Fossil Evidence:
    • Fossils of members belonging to the same land-dwelling species (which could not have crossed oceans) are found on now-separated continents. Examples:
-     • Mesosaurus (freshwater reptile) in South America and Africa.
+     • Mesosaurus (freshwater reptile) fossils in South America and Africa.
      • Glossopteris (fern) fossils in India, Australia, Antarctica, and South Africa.
 
 4. Paleoclimatic Evidence:
