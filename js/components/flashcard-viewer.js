@@ -19,9 +19,15 @@ const FlashcardViewer = {
     startTheme: function(theme) {
         this.currentTheme = theme;
         this.currentCardIndex = 0;
-        this.renderCard();
-        this.updateProgress();
-        this.updateNavigation();
+        
+        // Try to restore saved state for this theme
+        const restored = this.restoreState();
+        if (!restored) {
+            this.renderCard();
+            this.updateProgress();
+            this.updateNavigation();
+        }
+        this.saveState(); // Add this line
     },
     
   renderCard: function() {
@@ -54,6 +60,7 @@ const FlashcardViewer = {
             this.renderCard();
             this.updateProgress();
             this.updateNavigation();
+            this.saveState(); // Add this line
         }
     },
     
@@ -63,6 +70,7 @@ const FlashcardViewer = {
             this.renderCard();
             this.updateProgress();
             this.updateNavigation();
+            this.saveState(); // Add this line
         }
     },
     
@@ -78,5 +86,35 @@ const FlashcardViewer = {
     
     backToThemes: function() {
         ThemeSelector.showScreen('themeScreen');
+    },
+    
+    // Add this method
+    saveState: function() {
+        if (this.currentTheme) {
+            sessionStorage.setItem('flashcardState', JSON.stringify({
+                themeId: this.currentTheme.id,
+                cardIndex: this.currentCardIndex
+            }));
+        }
+    },
+    
+    // Add this method - returns true if state was restored
+    restoreState: function() {
+        const saved = sessionStorage.getItem('flashcardState');
+        if (saved && this.currentTheme) {
+            try {
+                const state = JSON.parse(saved);
+                // You'll need to find the theme by ID - adjust based on your theme structure
+                if (state.themeId === this.currentTheme.id) {
+                    this.currentCardIndex = state.cardIndex;
+                    this.renderCard();
+                    this.updateProgress();
+                    this.updateNavigation();
+                    sessionStorage.removeItem('flashcardState');
+                    return true;
+                }
+            } catch(e) {}
+        }
+        return false;
     }
 };
