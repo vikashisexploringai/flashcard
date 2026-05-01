@@ -51,32 +51,22 @@ Limitation and Later Development:
 
 Wegener’s theory was initially rejected because he could not explain the mechanism behind the drift. It was later superseded and validated by the theory of plate tectonics in the 1960s, which explained continental movement through seafloor spreading and mantle convection.`
         },
-        {
-    question: "Why are the worldʼs fold mountain systems located along the margins of continents? Bring out the association between the global distribution of Fold Mountains and the earthquakes and volcanoes.",
-    paragraph: `Fold mountain systems are primarily located along the margins of continents due to the convergence of tectonic plates, where continental and oceanic plates collide. These margins are active or convergent plate boundaries where massive compressional forces crumple and uplift sedimentary rock layers into large, linear folds.
+{
+    question: "Why are the world's fold mountain systems located along the margins of continents? Bring out the association between the global distribution of Fold Mountains and the earthquakes and volcanoes.",
+    paragraph: `Fold mountains are confined to continental margins because these coincide with zones of plate convergence. Along such boundaries, thick sedimentary sequences accumulated in geosynclines are subjected to intense compressional forces, leading to folding, faulting, and uplift into mountain chains.
 
 Association with Earthquakes and Volcanoes:
 
-The global distribution of fold mountains, earthquakes, and volcanoes is closely linked through plate tectonics:
+At convergent margins, plate interaction generates enormous stress, released intermittently as earthquakes. Where an oceanic plate subducts, partial melting of the slab produces magma that rises to form volcanic arcs—explaining why the Pacific Ring of Fire hosts fold mountains, active volcanoes, and frequent quakes together.
 
-1. Convergent Boundaries as Common Locations:
-   • Fold mountains (e.g., the Andes, Rockies, Alps, Himalayas) form where plates converge.
-   • The same zones experience intense seismic activity (earthquakes) due to friction, subduction, and collision.
-   • Volcanoes often arise, especially where oceanic plates subduct beneath continental plates, melting rock and creating magma (e.g., Pacific Ring of Fire).
+Variation by Convergence Type:
 
-2. Subduction Zones:
-   • Example: The Andes Mountains are located where the Nazca Plate subducts under the South American Plate, causing folding, frequent earthquakes, and active volcanism.
+• Subduction zones (e.g., Andes): Folding, volcanism, and earthquakes coexist due to oceanic plate descent.
+• Continental collision zones (e.g., Himalayas): No subduction, hence no volcanism—but intense compression generates powerful earthquakes alongside ongoing mountain building.
 
-3. Continental Collision Zones:
-   • Example: The Himalayas formed (and are still rising) from the Indian Plate colliding with the Eurasian Plate. This causes major earthquakes but typically no volcanoes, as no subduction occurs.
-
-4. Global Pattern: The Pacific Ring of Fire:
-   • A clear example of the association: mountain chains along the Americas and East Asia coincide with earthquake-prone zones and volcanic arcs due to Pacific Plate interactions.
-
-Summary:
-
-Thus, the concentration of fold mountains, earthquakes, and volcanoes along continental margins results from plate boundary interactions. Compressional forces build mountains, while movement and subduction generate seismic and volcanic activity. This trio of geological phenomena marks Earth's most tectonically active regions.`
-        },
+Conclusion:
+Thus, fold mountains, earthquakes, and volcanoes are three expressions of the same plate tectonic process, with continental margins as Earth's most dynamic crustal zones.`
+},
         {
     question: "Explain the formation of thousands of islands in Indonesian and Philippines archipelagos",
     paragraph: `The formation of the thousands of islands in the Indonesian and Philippine archipelagos is a direct result of intense tectonic activity at the convergence zone of several major tectonic plates. This region is one of the most geologically complex and active on Earth.
