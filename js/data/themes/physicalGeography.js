@@ -53,7 +53,7 @@ Wegener’s theory was initially rejected because he could not explain the mecha
         },
 {
     question: "Why are the world's fold mountain systems located along the margins of continents? Bring out the association between the global distribution of Fold Mountains and the earthquakes and volcanoes.",
-    paragraph: `Fold mountains are confined to continental margins because these coincide with zones of plate convergence. Along such boundaries, thick sedimentary sequences accumulated in geosynclines are subjected to intense compressional forces, leading to folding, faulting, and uplift into mountain chains.
+    paragraph: `Fold mountains are confined to continental margins because these margins coincide with zones of plate convergence. Along such boundaries, thick sedimentary sequences accumulated in geosynclines are subjected to intense compressional forces, leading to folding, faulting, and uplift into mountain chains.
 
 Association with Earthquakes and Volcanoes:
 
