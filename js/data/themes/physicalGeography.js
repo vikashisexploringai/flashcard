@@ -57,7 +57,7 @@ Wegener’s theory was initially rejected because he could not explain the mecha
 
 Association with Earthquakes and Volcanoes:
 
-At convergent margins, plate interaction generates enormous stress, released intermittently as earthquakes. Where an oceanic plate subducts, partial melting of the slab produces magma that rises to form volcanic arcs—explaining why the Pacific Ring of Fire hosts fold mountains, active volcanoes, and frequent quakes together.
+At convergent margins where an oceanic plate subducts, partial melting of the slab produces magma that rises to form volcanic arcs. The plate interaction also generates enormous stress, released intermittently as earthquakes—explaining why the Pacific Ring of Fire hosts fold mountains, active volcanoes, and frequent quakes together.
 
 Variation by Convergence Type:
 
