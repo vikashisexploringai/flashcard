@@ -247,9 +247,9 @@ Consequences:
 
 The impacts are catastrophic and multi-dimensional:
 
-1. Immediate Destruction: Widespread inundation destroys infrastructure and settlements (e.g., the 2011 Japan tsunami flooding 500+ km² and triggering the Fukushima nuclear disaster).
-2. Mass Casualties: Primary cause is drowning (e.g., ~230,000 fatalities across 14 countries in 2004).
-3. Long-term Socio-Economic Damage: Saltwater intrusion ruins agriculture, destroys livelihoods (fisheries, tourism), and displaces communities (e.g., 1.7 million displaced in Indonesia in 2004).
+1. Immediate Destruction: Widespread inundation destroys infrastructure and settlements (e.g., the 2011 Japan tsunami triggering the Fukushima nuclear disaster).
+2. Mass Casualties: Primary cause is drowning.
+3. Long-term Socio-Economic Damage: Saltwater intrusion ruins agriculture, destroys livelihoods (fisheries, tourism), and displaces communities.
 4. Environmental Degradation: Coastal erosion and damage to marine ecosystems like coral reefs.
 
 Thus, tsunamis represent a compound natural hazard where geological triggers in specific zones lead to profound humanitarian, economic, and environmental crises, highlighting the critical need for robust warning systems and resilient coastal planning.`
