@@ -221,10 +221,7 @@ These auroras are the result of interactions between charged particles from the 
 
 3. Collision and Excitation: The high-energy particles collide with gases in the ionosphere (80–600 km altitude), primarily oxygen and nitrogen atoms/molecules. These collisions transfer energy, "exciting" the gas atoms.
 
-4. Emission of Light: When the excited atoms return to their normal state, they release the excess energy as photons of light. The color depends on the gas and altitude:
-   • Green (most common): Oxygen at ~100–240 km.
-   • Red: Oxygen at very high altitudes (~240 km).
-   • Purple/Blue: Nitrogen at lower altitudes.
+4. Emission of Light: When excited atoms return to their normal state, they release excess energy as photons of light. The specific color produced depends on the gas and altitude—green or red from oxygen at high altitudes, and purple or blue from nitrogen at lower altitudes.
 
 5. Geomagnetic Influence: The shape and intensity of the auroras are governed by Earth’s magnetic field lines and solar wind speed. Auroras are typically visible in oval-shaped rings around the magnetic poles (Auroral Ovals).
 
