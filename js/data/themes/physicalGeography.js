@@ -225,7 +225,7 @@ These auroras are the result of interactions between charged particles from the 
 
 5. Geomagnetic Influence: The shape and intensity of the auroras are governed by Earth’s magnetic field lines and solar wind speed. Auroras are typically visible in oval-shaped rings around the magnetic poles (Auroral Ovals).
 
-In essence, auroras are a cosmic electrical phenomenon—a visual manifestation of Earth’s protective magnetosphere interacting with solar storms, transforming particle energy into ethereal light. They occur simultaneously in both hemispheres but are visible from different geographic locations.`
+In essence, auroras are a cosmic electrical phenomenon—a visual manifestation of Earth’s protective magnetosphere interacting with solar storms, transforming particle energy into ethereal light.`
         },
         {
     question: "What are Tsunamis? How and where are they formed? What are their consequences? Explain with examples.",
