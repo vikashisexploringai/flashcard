@@ -129,7 +129,6 @@ Key Geophysical Characteristics:
 2. Seismicity:
    • The zone experiences frequent and powerful earthquakes due to subduction, collision, and associated faulting.
    • It accounts for about 90% of the world’s earthquakes, including megathrust events (e.g., Japan 2011, Chile 1960).
-   • Earthquakes occur along the Benioff-Wadati zones, tracing subducting slabs to depths of ~700 km.
 
 3. Volcanism:
    • It contains 75% of the world’s active and dormant volcanoes.
