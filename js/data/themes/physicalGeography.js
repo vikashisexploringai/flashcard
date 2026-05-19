@@ -76,7 +76,7 @@ Key Formation Processes:
 1. Volcanic Island Arcs from Subduction:
    The primary process is subduction, where oceanic plates plunge beneath other plates into the Earth's mantle.
    • Indonesian Archipelago: Formed primarily by the subduction of the Indo-Australian Plate beneath the Sunda Plate (part of the Eurasian Plate). The melting of the subducted slab generates magma that rises to form volcanic islands, creating arcs like Java, Sumatra, and the Lesser Sunda Islands.
-   • Philippine Archipelago: Formed by the complex interaction between the Philippine Sea Plate and the Eurasian Plate, with subduction occurring on both sides (e.g., along the Philippine Trench). This dual subduction has built volcanic island arcs, including the main islands of Luzon and Mindanao.
+   • Philippine Archipelago: Formed by the complex interaction between the Philippine Sea Plate and the Eurasian Plate, with subduction occurring on both sides of the archipelago. This dual subduction has built volcanic island arcs, including the main islands of Luzon and Mindanao.
 
 2. Accretion and Uplift:
    The collision and scraping of oceanic plates bring along sediments, oceanic crust, and even old island fragments. These materials are accreted (added) to the edge of the overriding plate, gradually building up non-volcanic islands through uplift. Many islands in eastern Indonesia and parts of the Philippines are formed this way.
