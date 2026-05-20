@@ -69,7 +69,7 @@ Thus, fold mountains, earthquakes, and volcanoes are three expressions of the sa
 },
         {
     question: "Explain the formation of thousands of islands in Indonesian and Philippines archipelagos",
-    paragraph: `The formation of the thousands of islands in the Indonesian and Philippine archipelagos is a direct result of intense tectonic activity at the convergence zone of several major tectonic plates. This region is one of the most geologically complex and active on Earth.
+    paragraph: `The formation of the thousands of islands in the Indonesian and Philippine archipelagos is a direct result of intense tectonic activity at the convergence zone of several major tectonic plates. This region is one of the most geologically complex and active ones on Earth.
 
 Key Formation Processes:
 
