@@ -82,7 +82,7 @@ Key Formation Processes:
    The collision and scraping of oceanic plates bring along sediments, oceanic crust, and even old island fragments. These materials are accreted (added) to the edge of the overriding plate, gradually building up non-volcanic islands through uplift. Many islands in eastern Indonesia and parts of the Philippines are formed this way.
 
 3. Continental Fragmentation:
-   Some larger islands (e.g., Borneo, Sumatra) are actually fragments of the Eurasian continental shelf that were separated by rising sea levels and tectonic rifting, not formed by volcanism.
+   Some larger islands (e.g., Borneo) are actually fragments of the Eurasian continental shelf that were separated by rising sea levels and tectonic rifting, not formed by volcanism.
 
 4. Coral Reef Growth and Sea-Level Changes:
    On existing volcanic or uplifted bases, coral reefs have grown. Changes in sea level (especially after the last ice age) exposed these reefs, forming low-lying coral atolls and limestone islands (e.g., parts of the Sulu Archipelago).
