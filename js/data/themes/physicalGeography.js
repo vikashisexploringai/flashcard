@@ -67,6 +67,40 @@ Variation by Convergence Type:
 Conclusion:
 Thus, fold mountains, earthquakes, and volcanoes are three expressions of the same plate tectonic process, with continental margins as Earth's most dynamic crustal zones.`
 },
+ {
+    question: "Discuss the geophysical characteristics of Circum-Pacific Zone.",
+    paragraph: `The Circum-Pacific Zone, also known as the Pacific Ring of Fire, is the most tectonically active region on Earth, encircling the Pacific Ocean. Its geophysical characteristics are defined by intense interactions at convergent plate boundaries.
+
+Key Geophysical Characteristics:
+
+        
+1. Tectonic Setting:
+   It is a nearly continuous series of convergent plate boundaries where oceanic plates (Pacific, Nazca, Cocos, Juan de Fuca) subduct beneath continental plates (Eurasian, North American, South American) or other oceanic plates (Philippine Sea Plate). This forms deep oceanic trenches (e.g., Mariana Trench, Peru-Chile Trench).
+
+2. Seismicity:
+   • The zone experiences frequent and powerful earthquakes due to subduction, collision, and associated faulting.
+   • It accounts for about 90% of the world’s earthquakes, including megathrust events (e.g., Japan 2011, Chile 1960).
+
+3. Volcanism:
+   • It contains 75% of the world’s active and dormant volcanoes.
+   • Subduction-driven partial melting of the mantle generates volcanic arcs (e.g., Andes, Cascades, Japanese archipelago).
+   • Magma tends to be viscous (andesitic to rhyolitic), leading to explosive eruptions.
+
+4. Geothermal and Geodynamic Features:
+   • High heat flow and widespread geothermal activity (hot springs, geysers).
+   • Back-arc basins (e.g., Sea of Japan) form from extensional forces behind volcanic arcs.
+   • Orogenic belts (e.g., the Andes) result from crustal compression and uplift.
+
+5. Tsunami Generation:
+   Megathrust earthquakes and volcanic collapses in the zone are the primary causes of destructive trans-Pacific tsunamis (e.g., 2004 Indian Ocean, 2011 Japan).
+
+6. Magnetic and Gravimetric Anomalies:
+   • Negative gravity anomalies align with deep trenches due to low-density subducted slabs.
+   • Complex magnetic anomaly patterns reflect seafloor spreading and subduction history.
+
+Scientific Significance:
+The Circum-Pacific Zone serves as a natural laboratory for studying subduction dynamics, seismic hazards, volcanic processes, and plate tectonic theory. Its activity underscores the dynamic and hazardous nature of Earth’s lithosphere, directly impacting billions of people living along its periphery.`
+        },
         {
     question: "Explain the formation of thousands of islands in Indonesian and Philippines archipelagos",
     paragraph: `The formation of the thousands of islands in the Indonesian and Philippine archipelagos is a direct result of intense tectonic activity at the convergence zone of several major tectonic plates. This region is one of the most geologically complex and active ones on Earth.
@@ -116,39 +150,6 @@ Role in Plate Tectonics:
 
 Significance:
 Mantle plumes act as independent, deep thermal anomalies that interact with plate tectonics by modifying the lithosphere, creating unique volcanic features, and potentially triggering major tectonic events, thereby complementing the plate boundary-driven model of Earth dynamics.`
-        },
-        {
-    question: "Discuss the geophysical characteristics of Circum-Pacific Zone.",
-    paragraph: `The Circum-Pacific Zone, also known as the Pacific Ring of Fire, is the most tectonically active region on Earth, encircling the Pacific Ocean. Its geophysical characteristics are defined by intense interactions at convergent plate boundaries.
-
-Key Geophysical Characteristics:
-
-1. Tectonic Setting:
-   It is a nearly continuous series of convergent plate boundaries where oceanic plates (Pacific, Nazca, Cocos, Juan de Fuca) subduct beneath continental plates (Eurasian, North American, South American) or other oceanic plates (Philippine Sea Plate). This forms deep oceanic trenches (e.g., Mariana Trench, Peru-Chile Trench).
-
-2. Seismicity:
-   • The zone experiences frequent and powerful earthquakes due to subduction, collision, and associated faulting.
-   • It accounts for about 90% of the world’s earthquakes, including megathrust events (e.g., Japan 2011, Chile 1960).
-
-3. Volcanism:
-   • It contains 75% of the world’s active and dormant volcanoes.
-   • Subduction-driven partial melting of the mantle generates volcanic arcs (e.g., Andes, Cascades, Japanese archipelago).
-   • Magma tends to be viscous (andesitic to rhyolitic), leading to explosive eruptions.
-
-4. Geothermal and Geodynamic Features:
-   • High heat flow and widespread geothermal activity (hot springs, geysers).
-   • Back-arc basins (e.g., Sea of Japan) form from extensional forces behind volcanic arcs.
-   • Orogenic belts (e.g., the Andes) result from crustal compression and uplift.
-
-5. Tsunami Generation:
-   Megathrust earthquakes and volcanic collapses in the zone are the primary causes of destructive trans-Pacific tsunamis (e.g., 2004 Indian Ocean, 2011 Japan).
-
-6. Magnetic and Gravimetric Anomalies:
-   • Negative gravity anomalies align with deep trenches due to low-density subducted slabs.
-   • Complex magnetic anomaly patterns reflect seafloor spreading and subduction history.
-
-Scientific Significance:
-The Circum-Pacific Zone serves as a natural laboratory for studying subduction dynamics, seismic hazards, volcanic processes, and plate tectonic theory. Its activity underscores the dynamic and hazardous nature of Earth’s lithosphere, directly impacting billions of people living along its periphery.`
         },
         {
     question: "Describe the characteristics and types of primary rocks.",
